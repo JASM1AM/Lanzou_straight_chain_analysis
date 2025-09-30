@@ -26,8 +26,6 @@ https://你的worker.workers.dev/?url=你的蓝奏云链接
 
 ### 示例
 
-bash
-
 直接下载模式
 
 https://lanzou-demo.workers.dev/?url=https://wwi.lanzoup.com/i12345678 
