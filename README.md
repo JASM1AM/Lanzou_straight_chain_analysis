@@ -16,7 +16,7 @@
 ### 基本用法
 
 **体验地址**
-链接：httpa://lanzou/jasmiam.top
+https://lanzou.jasmiam.top
 
 1. **获取蓝奏云分享链接**
 例如：https://wwi.lanzoup.com/i12345678
